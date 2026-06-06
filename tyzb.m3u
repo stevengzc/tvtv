@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-name="CCTV1" group-title="陕西电信",CCTV1
+http://222.90.31.102:8888/udp/239.112.205.59:5140
+#EXTINF:-1 tvg-name="CCTV5" group-title="陕西电信",CCTV5
+http://222.90.31.102:8888/udp/239.112.205.222:5140
+#EXTINF:-1 tvg-name="CCTV5+" group-title="陕西电信",CCTV5+
+http://222.90.31.102:8888/udp/239.111.205.13:5140
+#EXTINF:-1 tvg-name="CCTV16" group-title="陕西电信",CCTV16
+http://222.90.31.102:8888/udp/239.111.205.134:5140
